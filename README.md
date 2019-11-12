@@ -2,7 +2,7 @@ Ejercicio 2: El "const" que es agregado para declarar la variable, sirve para vo
 
 Ejercicio 4: compila de la misma manera para int y double, ya que estas son independientes de la otra. Por eso mismo el programa ya sabe que ejecutar la una de la otra según los valores ingresados. Solo que double recibe además decimales.
 
-Ejercicio5:
+Ejercicio 5: Se obtiene una secuencia acumulada de errores.
 
 Fsanitize- Hace un recorrido en la memoria buscando errores espefificos, y/o "convenientes" de resolver.
 
